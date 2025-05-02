@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection
 
-This repository contains code and notebooks for detecting fraudulent credit card transactions using machine learning.
+This repository contains notebook for detecting fraudulent credit card transactions using machine learning.
 
 ## 📚 Dataset
 
@@ -11,5 +11,5 @@ You can download the dataset manually from Kaggle using the link below:
 
 👉 [https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
-Once downloaded, place the `creditcard.csv` file inside the `data/` directory.
+
 
